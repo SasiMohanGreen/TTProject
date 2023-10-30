@@ -3,20 +3,20 @@ package com.org.ttp.pojo;
 import org.apache.commons.lang3.StringUtils;
 
 public class TTFormTestData {
-    private String firstname;
+    private String firstname = "";
 
-    private String lastName;
-    private String email;
+    private String lastName= "";
+    private String email= "";
 
-    private String gender;
-    private String mobileNum;
+    private String gender= "";
+    private String mobileNum= "";
 
-    private String dob;
-    private String[] hobbies;
+    private String dob= "";
+    private String[] hobbies= {"","",""};
 
-    private String location;
+    private String location= "";
 
-    private String address;
+    private String address= "";
 
     public String getFirstname() {
         return firstname;

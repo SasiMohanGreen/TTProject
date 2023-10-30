@@ -1,11 +1,9 @@
 package com.org.ttp.utils;
 
 import java.io.File;
+import com.org.ttp.pojo.TTFormTestData;
 
 public enum AllConstants {
-
-    EDGE_DRIVER("webdriver.ie.driver"),
-
 
     SYSTEM_PATH(System.getProperty("user.dir") + File.separator),
 
@@ -14,10 +12,18 @@ public enum AllConstants {
     APP_URL(),
 
     TESTDATA_FILENAME(),
+
+    TESTDATA_FILEPATH(),
+
+    TTFormTestData(),
+
+    TEXT_FILENAME(),
+
+    IMAGE_FILENAME(),
     TESTCASE_ID();
 
-
     private String value;
+    private TTFormTestData objValue;
     private AllConstants(){
 
     }
@@ -27,9 +33,14 @@ public enum AllConstants {
     public String getValue() {
         return value;
     }
-
     public void setValue(String value) {
         this.value = value;
+    }
+    public void setObjectValue(TTFormTestData obj) {
+        this.objValue = obj;
+    }
+    public TTFormTestData getObjectValue() {
+        return objValue;
     }
 
 }

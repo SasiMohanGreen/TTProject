@@ -1,95 +1,767 @@
-2023-10-30 18:35:05,601 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:35:05,610 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:35:05,610 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:35:05,611 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:35:05,611 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:35:05,611 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:35:05,612 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:35:07,561 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
-2023-10-30 18:35:07,561 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
-2023-10-30 18:35:08,707 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
-2023-10-30 18:35:09,285 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
-2023-10-30 18:35:09,285 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
-2023-10-30 18:35:09,444 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
-2023-10-30 18:35:09,444 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
-2023-10-30 18:35:13,900 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
-2023-10-30 18:35:13,900 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
-2023-10-30 18:36:26,321 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:36:26,334 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:36:26,335 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:36:26,335 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:36:26,335 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:36:26,335 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:36:26,336 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:36:29,879 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
-2023-10-30 18:36:29,880 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
-2023-10-30 18:36:31,124 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
-2023-10-30 18:36:31,791 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
-2023-10-30 18:36:31,791 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
-2023-10-30 18:36:31,974 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
-2023-10-30 18:36:31,974 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
-2023-10-30 18:43:50,011 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:43:50,020 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:43:50,021 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:43:50,021 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:43:50,021 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:43:50,022 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:43:50,022 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:43:53,327 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
-2023-10-30 18:43:53,327 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
-2023-10-30 18:43:54,530 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
-2023-10-30 18:43:55,086 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
-2023-10-30 18:43:55,086 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
-2023-10-30 18:43:55,256 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
-2023-10-30 18:43:55,256 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
-2023-10-30 18:46:27,561 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:46:27,572 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:46:27,572 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:46:27,572 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:46:27,572 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:46:27,573 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:46:27,573 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:46:30,981 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
-2023-10-30 18:46:30,981 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
-2023-10-30 18:46:32,168 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
-2023-10-30 18:46:32,713 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
-2023-10-30 18:46:32,713 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
-2023-10-30 18:46:32,882 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
-2023-10-30 18:46:32,882 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
-2023-10-30 18:48:01,272 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:48:01,286 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:48:01,286 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:50:16,499 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:50:16,499 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:50:16,499 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:50:16,500 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:51:13,550 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:51:13,563 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:51:13,563 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:51:38,334 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:51:50,892 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:51:50,892 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:51:50,895 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:51:59,270 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
-2023-10-30 18:51:59,271 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
-2023-10-30 18:52:00,512 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
-2023-10-30 18:52:05,635 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
-2023-10-30 18:52:05,635 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
-2023-10-30 18:52:05,855 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
-2023-10-30 18:52:05,855 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
-2023-10-30 18:53:09,754 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
-2023-10-30 18:53:09,762 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
-2023-10-30 18:53:09,762 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
-2023-10-30 18:53:09,764 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
-2023-10-30 18:53:09,764 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
-2023-10-30 18:53:09,764 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:53:09,764 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
-2023-10-30 18:53:12,991 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
-2023-10-30 18:53:12,991 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
-2023-10-30 18:53:14,231 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
-2023-10-30 18:53:14,718 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
-2023-10-30 18:53:14,718 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
-2023-10-30 18:53:14,877 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
-2023-10-30 18:53:14,877 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
-2023-10-30 18:53:27,645 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
-2023-10-30 18:53:27,645 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:23:43,932 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:23:43,941 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:23:43,942 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:23:43,942 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:23:43,942 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:23:43,942 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:23:43,943 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:23:47,300 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
+2023-10-30 20:23:47,300 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
+2023-10-30 20:23:48,492 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:23:48,493 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:23:48,994 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:23:49,009 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:23:49,010 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:23:49,210 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterMandatoryValues()--started
+2023-10-30 20:23:49,210 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:23:53,567 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:23:53,567 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterMandatoryValues()--ended
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:23:53,930 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:23:53,955 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:23:53,957 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:23:53,957 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:23:54,487 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:23:54,487 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:23:54,615 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:23:54,615 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:23:54,615 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:24:15,099 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:24:15,100 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:24:15,100 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:24:15,100 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:24:15,100 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:24:15,100 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:24:15,100 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:24:15,130 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:24:15,132 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:24:15,132 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:24:15,278 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:24:15,279 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:24:32,620 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:24:32,620 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:24:34,983 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:24:35,005 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:24:35,005 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:24:35,005 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:24:35,515 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:24:35,515 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:24:35,654 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:24:35,654 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:24:35,654 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:24:56,084 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:24:56,084 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:24:56,084 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:24:56,086 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:24:56,086 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:24:56,086 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:24:56,086 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:24:56,105 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:24:56,105 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:24:56,105 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:24:56,242 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:24:56,242 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:00,645 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:00,646 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:02,984 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:02,986 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:02,986 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:02,986 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:02,986 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:02,986 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:02,986 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:03,005 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:03,005 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:03,005 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:03,558 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:03,558 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:07,893 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:07,893 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:08,208 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:08,232 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:08,232 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:08,232 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:08,792 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:08,792 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:13,009 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:13,009 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:13,346 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:13,356 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:13,356 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:13,356 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:13,794 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:13,794 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:18,129 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:18,129 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:18,473 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:18,488 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:18,488 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:18,488 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:19,034 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:19,034 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:23,195 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:23,195 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:23,558 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:23,578 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:23,578 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:23,578 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:24,022 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:24,022 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:24,029 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:25:24,029 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:24,029 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:44,478 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:44,493 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:44,493 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:44,493 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:44,631 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:44,631 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:48,963 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:48,963 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:49,289 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:49,309 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:49,309 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:49,309 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:49,824 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:49,824 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:54,155 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:54,155 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:25:54,479 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:25:54,493 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:25:54,498 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:25:54,498 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:25:54,949 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:25:54,949 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:25:54,958 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:25:54,958 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:25:54,958 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:26:15,467 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:26:15,477 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:26:15,478 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:26:15,478 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:26:15,614 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:26:15,614 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:26:19,696 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:26:19,696 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:26:20,014 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:26:20,024 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:26:20,025 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:26:20,025 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:26:20,470 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:26:20,470 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:26:26,676 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:26:26,676 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:26:26,997 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:26:26,999 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:26:26,999 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:26:26,999 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:26:26,999 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:26:26,999 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:26:26,999 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:26:27,011 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:26:27,012 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:26:27,012 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:26:27,443 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:26:27,443 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:26:31,593 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:26:31,593 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:26:31,910 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:26:31,910 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:26:31,910 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:26:31,911 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:26:31,911 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:26:31,911 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:26:31,911 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:26:31,920 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:26:31,921 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:26:31,921 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:26:32,428 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:26:32,428 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:26:32,435 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:26:32,435 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:26:32,435 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:26:52,946 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:26:52,955 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:26:52,956 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:26:52,956 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:26:53,089 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:26:53,089 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:26:57,269 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:26:57,269 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:26:57,593 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:26:57,594 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:26:57,594 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:26:57,594 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:26:57,594 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:26:57,594 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:26:57,594 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:26:57,603 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:26:57,604 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:26:57,604 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:26:58,169 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:26:58,169 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:26:58,177 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:26:58,177 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:26:58,177 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:27:18,768 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:27:18,777 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:27:18,778 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:27:18,778 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:27:18,913 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:27:18,913 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:27:23,043 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:27:23,043 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:27:23,359 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:27:23,360 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:27:23,360 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:27:23,360 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:27:23,360 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:27:23,360 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:27:23,361 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:27:23,369 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:27:23,369 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:27:23,369 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:27:23,837 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:27:23,837 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:27:27,982 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:27:27,983 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:27:28,302 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:27:28,310 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:27:28,311 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:27:28,311 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:27:28,770 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:27:28,770 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:27:28,782 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:27:28,782 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:27:28,782 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:27:49,304 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:27:49,304 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:27:49,304 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:27:49,305 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:27:49,305 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:27:49,305 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:27:49,305 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:27:49,313 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:27:49,314 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:27:49,314 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:27:49,448 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:27:49,448 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:27:53,678 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:27:53,678 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:27:53,991 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:27:53,991 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:27:53,991 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:27:53,991 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:27:53,991 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:27:53,992 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:27:53,992 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:27:54,000 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:27:54,000 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:27:54,000 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:27:54,488 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:27:54,490 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:27:54,496 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [495c17f4d83688c6202c49274c7fb67a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61747}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61747/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 495c17f4d83688c6202c49274c7fb67a
+2023-10-30 20:27:54,497 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:27:54,497 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:14,993 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:14,993 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:14,993 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:14,994 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:14,994 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:14,994 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:14,994 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:15,002 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:15,002 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:15,002 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:15,146 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:15,146 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:19,215 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:19,215 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:19,507 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:19,516 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:19,516 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:19,516 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:19,650 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:19,650 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:23,476 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:23,476 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:23,810 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:23,810 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:23,810 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:23,810 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:23,810 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:23,810 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:23,811 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:23,820 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:23,821 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:23,821 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:23,949 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:23,949 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:27,715 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:27,715 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:28,009 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:28,009 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:28,009 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:28,010 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:28,010 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:28,010 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:28,010 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:28,017 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:28,017 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:28,017 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:28,136 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:28,136 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:31,804 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:31,805 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:32,112 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:32,124 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:32,124 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:32,124 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:32,257 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:32,257 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:35,914 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:35,914 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:36,206 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:36,214 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:36,214 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:36,214 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:36,348 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:36,349 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:40,150 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:40,150 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:40,445 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:40,453 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:40,453 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:40,453 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:40,604 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:40,604 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:44,274 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:44,274 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:44,610 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:44,617 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:44,618 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:44,618 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:44,763 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:44,763 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:48,723 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:48,723 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:49,073 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:49,088 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:49,088 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:49,088 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:49,230 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:49,230 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:53,031 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:53,031 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:53,339 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:53,339 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:53,339 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:53,339 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:53,340 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:53,340 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:53,340 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:53,346 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:53,347 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:53,347 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:53,470 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:53,470 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:28:57,307 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:28:57,308 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:28:57,662 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:28:57,662 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:28:57,662 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:28:57,663 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:28:57,663 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:28:57,663 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:28:57,663 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:28:57,670 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:28:57,670 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:28:57,670 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:28:57,809 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:28:57,809 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:29:01,662 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:29:01,662 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
+2023-10-30 20:30:21,707 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:30:21,716 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:30:21,716 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:30:21,717 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:30:21,717 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:30:21,717 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:30:21,717 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:30:25,029 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
+2023-10-30 20:30:25,029 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
+2023-10-30 20:30:26,311 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:30:26,311 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:30:26,825 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:30:26,844 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:30:26,844 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:30:27,081 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:30:27,081 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:30:31,404 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:30:31,404 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:30:31,755 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:30:31,800 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:30:31,800 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:30:31,800 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:30:32,311 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:30:32,311 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:30:49,908 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:30:49,908 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:33:20,128 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:33:20,137 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:33:20,137 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:33:20,138 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:33:20,138 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:33:20,138 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:33:20,139 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:33:23,493 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
+2023-10-30 20:33:23,493 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
+2023-10-30 20:33:24,904 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:33:24,904 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:33:25,385 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:33:25,399 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:33:25,399 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:33:25,585 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:33:25,585 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:33:30,085 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:33:30,085 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:33:30,470 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:33:30,513 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:33:30,513 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:33:30,513 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:33:31,135 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:33:31,135 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:33:31,153 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [758905f4fbf5fe49e842224b8af335aa, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62049}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62049/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 758905f4fbf5fe49e842224b8af335aa
+2023-10-30 20:33:31,153 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:33:31,153 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:33:51,699 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:33:51,714 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:33:51,714 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:33:51,714 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:33:51,875 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:33:51,875 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:33:56,151 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:33:56,151 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:33:56,491 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:33:56,493 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:33:56,493 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:33:56,493 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:33:56,493 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:33:56,493 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:33:56,493 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:33:56,515 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:33:56,515 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:33:56,515 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:33:57,001 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:33:57,001 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:33:57,014 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [758905f4fbf5fe49e842224b8af335aa, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62049}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62049/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 758905f4fbf5fe49e842224b8af335aa
+2023-10-30 20:33:57,014 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:33:57,014 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:34:17,486 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:34:17,513 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:34:17,513 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:34:17,513 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:34:17,659 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:34:17,659 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:34:22,056 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:34:22,056 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:34:48,732 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:34:48,742 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:34:48,742 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:34:48,742 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:34:48,742 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:34:48,743 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:34:48,743 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:34:52,098 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
+2023-10-30 20:34:52,098 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
+2023-10-30 20:34:53,404 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:34:53,404 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:34:53,874 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:34:53,887 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:34:53,887 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:34:54,068 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:34:54,068 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:34:58,519 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:34:58,519 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:34:58,901 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:34:58,930 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:34:58,930 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:34:58,930 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:34:59,479 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:34:59,479 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:34:59,513 [ERROR] com.org.ttp.pageobject.ValidateTTFormPage [main] no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='css-9x4jlj' and contains(text(),'First')]"}
+  (Session info: MicrosoftEdge=118.0.2088.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [80ab172ac0a50bc8b89413280a40d43a, findElement {using=xpath, value=//div[@class='css-9x4jlj' and contains(text(),'First')]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.76, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62168}, msedge: {msedgedriverVersion: 118.0.2088.76 (d3ddcf1d51d5..., userDataDir: C:\Users\SASIMO~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62168/devtoo..., se:cdpVersion: 118.0.2088.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 80ab172ac0a50bc8b89413280a40d43a
+2023-10-30 20:34:59,513 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:34:59,513 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:35:33,081 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:35:33,090 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:35:33,090 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:35:33,091 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:35:33,091 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:35:33,091 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:35:33,092 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:35:36,446 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
+2023-10-30 20:35:36,446 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
+2023-10-30 20:35:37,774 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:35:37,774 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:35:38,257 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:35:38,271 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:35:38,271 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:35:38,455 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--started
+2023-10-30 20:35:38,455 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:35:42,816 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:35:42,816 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterAllValues()--ended
+2023-10-30 20:37:11,234 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--started
+2023-10-30 20:37:11,242 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--called
+2023-10-30 20:37:11,242 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--started
+2023-10-30 20:37:11,243 [INFO ] com.org.ttp.utils.Utils [main] Class:Utils--Method:loadProperties()--ended
+2023-10-30 20:37:11,243 [INFO ] com.org.ttp.glue.CommonStep [main] Class:Utils--Method:loadProperties()--call ended
+2023-10-30 20:37:11,243 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:37:11,244 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--called
+2023-10-30 20:37:14,644 [INFO ] com.org.ttp.utils.DriverManager [main] Class:DriverManager--Method:launchBrowser()--ended
+2023-10-30 20:37:14,644 [INFO ] com.org.ttp.glue.CommonStep [main] Class:DriverManager--Method:launchBrowser()--call ended
+2023-10-30 20:37:15,975 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--called
+2023-10-30 20:37:15,975 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--called
+2023-10-30 20:37:16,467 [INFO ] com.org.ttp.utils.ReadTestData [main] Class:ReadTestData--Method:readAndSetTestDataInPOJO()--ended
+2023-10-30 20:37:16,469 [INFO ] com.org.ttp.glue.CommonStep [main] Class:AllConstants.TTFormTestData--Method:setObjectValue()--call ended
+2023-10-30 20:37:16,469 [INFO ] com.org.ttp.glue.CommonStep [main] Class:CommonStep--Method:beforeScenario()--ended
+2023-10-30 20:37:16,660 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--started
+2023-10-30 20:37:16,660 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--started
+2023-10-30 20:37:20,122 [INFO ] com.org.ttp.pageobject.ValidateTTFormPage [main] Class:ValidateTTFormPage--Method:fillForm()--ended
+2023-10-30 20:37:20,122 [INFO ] com.org.ttp.glue.ValidateTTFormStep [main] Class:ValidateTTFormStep--Method:enterOnlyGivenValues()--ended
