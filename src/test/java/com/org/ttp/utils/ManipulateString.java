@@ -9,6 +9,6 @@ public class ManipulateString {
         System.out.println(StringUtils.substringBetween(s,"[","]"));
 
         String ss = "Sports,Music";
-        String[] splitString =StringUtils.split(ss,",");
+
     }
 }
