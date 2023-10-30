@@ -70,7 +70,7 @@ public class TTFormTestData {
     }
 
     public void setHobbies(String hobbies) {
-        this.hobbies = StringUtils.split(hobbies,",");;
+        this.hobbies = StringUtils.split(hobbies,",");
     }
 
     public String getLocation() {

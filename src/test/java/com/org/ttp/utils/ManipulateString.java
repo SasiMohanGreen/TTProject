@@ -1,6 +1,5 @@
 package com.org.ttp.utils;
 
-import io.netty.util.internal.StringUtil;
 import org.apache.commons.lang3.StringUtils;
 
 public class ManipulateString {

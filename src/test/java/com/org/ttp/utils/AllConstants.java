@@ -24,10 +24,10 @@ public enum AllConstants {
 
     private String value;
     private TTFormTestData objValue;
-    private AllConstants(){
+    AllConstants(){
 
     }
-    private AllConstants(String value){
+    AllConstants(String value){
         this.value = value;
     }
     public String getValue() {
